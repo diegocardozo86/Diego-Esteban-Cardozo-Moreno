@@ -6,7 +6,7 @@ function calculadora() {
         
         let operacion = prompt("Ingrese la operación que desea realizar (+, -, *, /) o 'salir' para terminar:");
 
-        if (operacion === "salir"); {
+        if (operacion === "salir") {
             console.log("hasta luego")
             alert("¡Hasta luego!");
             break;
