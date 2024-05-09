@@ -1,5 +1,4 @@
-//! chat GPT
-
+//! calculadora
 
 function calculadora() {
     while (true) {
